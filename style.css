@@ -53,11 +53,12 @@ textarea{
     background: rgba(0, 0, 0, 0.8);
     margin: auto;
     padding: 30px 40px;
+    height: 787px;
 }
 #name,
 #age,
-#email,
-#dropdown,
+#mail,
+#content,
 #feedback{
     width: 100%;
     padding: 12px 10px;
