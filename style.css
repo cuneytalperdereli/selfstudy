@@ -78,6 +78,7 @@ textarea{
 }
 .form-submit{
     text-align: center;
+    
 }
 #form-button:hover{
     background-color: white;
@@ -88,3 +89,8 @@ textarea{
     font-family: harvey;
     src: url();
 }
+#check,#radio{
+    margin-top: 40px;
+}
+
+
