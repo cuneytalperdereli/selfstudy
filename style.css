@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Sorts+Mill+Goudy:ital@1&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bowlby+One+SC&family=Oswald&display=swap');
 
 *{
@@ -9,6 +9,7 @@
 body{
     /* background-image: url(./img/netflix-background-image\ 1.png); */
 }
+
 
 #container{
     max-width: 1240px;
@@ -21,11 +22,20 @@ body{
     font-size: 3.1rem;
     letter-spacing: 0.05em;
     text-align: center;
-    display: flex;
     color: white;
     font-family: 'Bowlby One SC';
 }
 span{
     color: #f00;
+}
+#description{
+    font-family: 'Sorts Mill Goudy';
+    font-style: italic;
+    font-size: 23px;
+    line-height: 0%;
+    color: white;
+}
+#header{
+    text-align: center;
 }
 
